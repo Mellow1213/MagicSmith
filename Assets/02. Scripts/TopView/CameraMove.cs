@@ -1,27 +1,37 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
 public class CameraMove : MonoBehaviour
-{public Transform playerTransform; // 캐릭터의 Transform 컴포넌트
+{
+    public Transform playerTransform; // 캐릭터의 Transform 컴포넌트
+    
+    [Header("하위 옵션은 Serialized Field임. 디버그 확인 용도이므로 수정 금지")] 
+    [SerializeField] private bool allowCameraMove = true;
 
-    public float smoothSpeed = 0.125f; // 부드러운 이동을 위한 스피드 값
-
-    private Vector3 offset; // 카메라와 캐릭터 사이의 거리
-
-    void Start()
+    private void LateUpdate()
     {
-        // 카메라와 캐릭터 사이의 거리 계산
-        offset = transform.position - playerTransform.position;
+        if (allowCameraMove)
+        {
+            var position = playerTransform.position;
+            var targetPos = new Vector3(position.x, position.y, -10.0f);
+            transform.position = Vector3.Lerp(transform.position, targetPos, Time.deltaTime * 10f);
+        }
     }
 
-    void FixedUpdate()
+    public void ChangeCameraState() // 카메라 이동 상태 변환 함수. 필요할 때 호출하면 토글 방식으로 변환
     {
-        // 새로운 카메라 위치 계산
-        Vector3 desiredPosition = playerTransform.position + offset;
-        Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed);
-
-        // 카메라 위치 업데이트
-        transform.position = smoothedPosition;
+        if (allowCameraMove) // 카메라의 부드러운 이동 상태 -> 플레이어 원점 고정 상태
+        {
+            allowCameraMove = false;
+            transform.parent = playerTransform;
+        }
+        else // 플레이어 원점 고정 상태 -> 카메라의 부드러운 이동 상태 
+        {
+            allowCameraMove = true;
+            transform.parent = null;
+        }
     }
 }
