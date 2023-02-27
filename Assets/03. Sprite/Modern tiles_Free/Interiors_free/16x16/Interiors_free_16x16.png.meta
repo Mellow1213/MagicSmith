@@ -1,0 +1,5545 @@
+fileFormatVersion: 2
+guid: 2fa3e2d3f1168474297a2c75a8c7e766
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 545
+        width: 5
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ab9161c9dd4040a1b59479db16902
+      internalID: -1490394992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1376
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3dc3c3697667a4fb4aa3b52acf763f
+      internalID: -715611469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_42
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52edbe590c1774d498fca07a9a9ee943
+      internalID: 270532221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_55
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1344
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f6d9b28ed88de489cad6d29a2b1d44
+      internalID: 1472843854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c8cf03e929e054ba0a33a1f237ffec
+      internalID: -1464859721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_100
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1291
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424cd51b2c709d2478250e1661b7fdcf
+      internalID: -1744244141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_118
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1264
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d420bafd1bba24e889c7f4e31f8aad
+      internalID: 267826183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_119
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1264
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5fa8a93184d884892cfb3fde788cbb
+      internalID: -617057312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_345
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1000
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d90b1cedb4a849a3a61a27dca1548
+      internalID: 780748706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_418
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 869
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d1f0cc3e963e24f9593af58c4bb451
+      internalID: 1773707132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_456
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 832
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a7111079c0699c4d85c5efbd7755fac
+      internalID: -521537480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_457
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 833
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e0997c5ae2b1439cf7570b22adfa4
+      internalID: -1366624789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_460
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 826
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cee40b189bdf4d4e98c51e7ab573e35
+      internalID: -1817578452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_461
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 826
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e123fa360d20604da88f56f7bcef83e
+      internalID: 1972280790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_503
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 787
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148bdef9f68595341bc8c470e228d89a
+      internalID: 365427873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_506
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd11e7858f200b34aaa293f49c0da242
+      internalID: 1389608562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_507
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 768
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d6fb5c3e92bb42a53f1668bdfbfe0
+      internalID: -1991763699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_510
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 769
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf77e85972746384b83ee3f190e1fe37
+      internalID: 1783100062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_522
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 755
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4c0864a628285439d6221a795d29a9
+      internalID: -1266730546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_537
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 752
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ffd9c43a0a7244eba7f045059d5190
+      internalID: -559633312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_554
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d35e514263d3d449ff532f6adb340a
+      internalID: -343042492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_555
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d44b43cc2974842bea9441ae07ad57
+      internalID: -1109906675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_556
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd7c7154868d6f48a1fe017afc0bb4a
+      internalID: 1569697002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_557
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 704
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23abf0c437f72434c830f3738389bea1
+      internalID: -758428883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_568
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7f2fe1af03dce449ea4d9d20b1d4bd
+      internalID: 1058321488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_569
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764f6cd6d6865394192e8e0ce1a8308b
+      internalID: -991037283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_570
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052092d9ed5127c45b2e3640c6b5ef7a
+      internalID: -1438074613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_571
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da860c28a9edb3642b1420e42723ae95
+      internalID: -474414029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_572
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630bc30a7b95eb40afa6fb86b2e2920
+      internalID: 1361852349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_583
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f916e10e8ad5a449e5f08b600543bc
+      internalID: -1804925999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_584
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f3fc2b3e922b84fbdba25f5302f91b
+      internalID: 1986930513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_585
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 672
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0077db4fa9fbb2c4fad0183531e88369
+      internalID: -1096164662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_596
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271723066333fe47810a9677a502916
+      internalID: -1064302705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_597
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 656
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7dba677ca80a146ab1e8674c868f65
+      internalID: -1569754816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_605
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 615
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7cd2586db8c7d479367b9829ebf87a
+      internalID: -1672864346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_608
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0803fe89364031840aacea787f8e9d58
+      internalID: 1258179084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_623
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 608
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ead7c8dee462ac4ea2a5889288c3991
+      internalID: -320938860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_638
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 592
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2d0aa8bab973b4c91abca79fcd77b1
+      internalID: 365286354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_654
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 577
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03bb8045b7b253469199d06d2ff107c
+      internalID: 1157326009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_744
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 487
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015c6e19e3464d94aa1ab0145acf6df3
+      internalID: -79106519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_818
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 392
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe35984db452814690b6f53a616d51b
+      internalID: 536166687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_853
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 340
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b98aaa4f6f648478e6df464421b554
+      internalID: 902493106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_877
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 296
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f133e4e790e234fb257e8a7f248a80
+      internalID: -256685675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_880
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 296
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bbd6462509e240bdf422e7994c6e9
+      internalID: 522497925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_922
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 248
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5edcdf7cd0dd5e448ea90881cee74c2
+      internalID: -1118618267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_957
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830ff69642f2ba749b7d7d9259995938
+      internalID: 771688676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_958
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692bc0e9334758646956279fa37606e8
+      internalID: -1998525463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_959
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f8be097af34a94abe228e7680293aa
+      internalID: -1386058349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_960
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ec54f84c31ec45b6b54b354bfebf5
+      internalID: 27066687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_961
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825d73bbd8d3c24093ca1eb5222200a
+      internalID: 975618858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_962
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0426bb06a97594686a133458dcfa2a
+      internalID: 307459516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_963
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c6ffb7ce5ac59498cffb2c9ec2bad8
+      internalID: -1474605857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_964
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941350e1afc86824ea23b1abd4e84bf3
+      internalID: -1921904892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_965
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71463de962bb54c45adae94d610f8b28
+      internalID: 703054218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_966
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bde553fb8a7e54487cc6cdb19ee120
+      internalID: -1679136983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_967
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad046960b01877488df9a319542b5fb
+      internalID: -2139946589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_968
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e537622d8949a4ea9b06769ab47f3e
+      internalID: -1016883240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_969
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fbe81c5d05b1be4da19d2c4467aa557
+      internalID: 1098619145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_970
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0aa2f0bdbfdec49bae1e3ca2168fe3
+      internalID: -156606750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_971
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f610ca10aae2642b486aa6f76c0e63
+      internalID: 1969207815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_972
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a03c170da01c840a2acc42f1891ad0
+      internalID: 762005539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_973
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29517d74bd8694c4e8cccb97113f203b
+      internalID: -1022762298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_974
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3710b1896b470714895ac6ac89b1d5bf
+      internalID: -731811607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_975
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91bab899c991e94e9faac921f2cebb8
+      internalID: 316878439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_976
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055e2fdd41cdef34c9d4a13171563378
+      internalID: -38768737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_977
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328504f10b20b1f448fd6a240a8318dd
+      internalID: -637384349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_978
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e009f209e36fc1441b1d144be29628f6
+      internalID: 2073471787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_979
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89320cbf6a154984787e337b63367798
+      internalID: 1333872827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_980
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f18b00d4d5435499d2bbb4a6c0360d
+      internalID: -1488422047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_981
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d29cb4b8244a3c49b3b176b5f095907
+      internalID: -797253289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_982
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20f1a7299ac7be42b40cf7dc3e19eb4
+      internalID: 857027590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_983
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45b14718d4bfcb46943075ff6289490
+      internalID: 564288026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_984
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e87ae112eeb3bf469e1b669f8908076
+      internalID: -28441011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_985
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb4292eee24b144ca1d095c22fc54c0
+      internalID: 572339116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_986
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a85a1422bd453439bf6ac15b91d1f7
+      internalID: -118535531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_987
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a29df5cec68a0042bb17a8388f35220
+      internalID: -813787032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_988
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac140619e04f4584184c33c28160dc8e
+      internalID: 774129953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_989
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c134d8566d156418d4e215804afc9b
+      internalID: -749591787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_990
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf051770fe344e4f9a686781664f38c
+      internalID: 1568804222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_991
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b99452e20b91478c9a30c034cf40c
+      internalID: -126141892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_992
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf760ae7eb55974dad5538696afa0fd
+      internalID: 1124524954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_993
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a34340564f64840950339f36d6ffb6
+      internalID: -212501167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_994
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a354f5f46075d8a4187dd7754c44e05a
+      internalID: -1621359643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_995
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a193af4ab3094174aa9da23e41a5bf04
+      internalID: -413711129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_996
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288021b5cb3bae6448fbeeb9e468e95f
+      internalID: 1266423084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_997
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a692e9ef759d7d34aa504f7776690225
+      internalID: -1806160584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_998
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e5cfb9c0711614488ae46b13a424be
+      internalID: 941967635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_999
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738fdc418b71234092b3b3fbfb708ba
+      internalID: 297182351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1000
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed191ca9c412ad841a35bce16408e636
+      internalID: -882051583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1001
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2d41e918912fd4688a3c54b912a755
+      internalID: -551118278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1002
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b861cef5307154d498ce1bf18d79a56c
+      internalID: 896961993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1003
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a5769b3bd4cc8844bae39fae33b4ba2
+      internalID: 1868702896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1004
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f92452b95789846ba0a1f2fe060ac0
+      internalID: -1779355487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1005
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c441773c6a312499dccde632ba0496
+      internalID: 356210891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1006
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e5635378992f94a8f789374fdd42f9
+      internalID: 1428232721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1007
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1021a025f39a57148bb3903e57b27f0e
+      internalID: 579194495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1008
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1336a058dea13d64a9d5fd9d65cdd80b
+      internalID: -138954860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1009
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d20cb3ec591fa4496d056813f27ac7
+      internalID: -952089445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1010
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf9a7c8858ebe14094ae74c928b64c5
+      internalID: 1659736248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1011
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e5efa8daddfd54eb2455820fc8a231
+      internalID: 1847840706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1012
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a67a039c052b748b1156c7e12ae7b7
+      internalID: 155665546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1013
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978050c95940b694cb6a0016b51fa41a
+      internalID: 98120199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1014
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f4860e6c966b4088026c5b69d2cbe
+      internalID: -1551066574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1015
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 143c483dd42f1ad45bb934050a57f089
+      internalID: 1991718801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1016
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2e754b03948fa4f9bb8ebea1f7bfc7
+      internalID: -1236750776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1017
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99218aab3ca60d54a9291114ca2c0ba6
+      internalID: -1538951448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1018
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843cbad9a6388c5418163af8dca73f26
+      internalID: -465370158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1019
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1f4c9128706d24b80db6b161afaa5f
+      internalID: -609972271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1020
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 72
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c16a5f73aefb142b259e1fcffd6107
+      internalID: 1738450464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1021
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27b650403fdc574e81bf142a0ed426a
+      internalID: -28350422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1022
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c11ddb263d4e4c9c03afc5c08c734
+      internalID: 1605746671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1023
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04568069d781c084d87b7b122c2d4c06
+      internalID: -299357498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1024
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27181226b224a034697f06b530fe1b17
+      internalID: -363103812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1025
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bda78c76f1af414ba85052d3e1b2b37
+      internalID: -1356348732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1026
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c4806bc011c6546a223ff292fb80b6
+      internalID: -1078598500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1027
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9534bc9bf0de2d64e97815988832f9f6
+      internalID: 674780388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1028
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a443164c070534aa50849b18f9be71
+      internalID: 609978152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1029
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d126bd8ca8d0abb4a8332eff65ab3e82
+      internalID: 13974255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1030
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b61e8d8ccd445148bc968e9376d7da5
+      internalID: 1392048471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1031
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57287050cfeaf8441b6d4663fb0df494
+      internalID: -592031097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1032
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4948bca8715544ab5122aea6b4895
+      internalID: -446074171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1033
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2558a13970048488d44e99f006c178
+      internalID: -1067681149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1034
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04904af48c39d6b42b70553e50dee2ae
+      internalID: -1029827433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1035
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3fd640133e72f47bc0c2fe9fe505ec
+      internalID: -327030531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1036
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9d337022bb2354ea34bc3459309397
+      internalID: 1455515269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1037
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8197101d7dc8e1d4f9fe94f2fd492fd4
+      internalID: 38180051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1038
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c318c40f87b05944acee440c13c3119
+      internalID: -2146169847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1039
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d48832c5f183cf4bab23d0fd8f3134a
+      internalID: 851616510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1040
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2574177af0090604b90a833033e8898c
+      internalID: -1086198655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1041
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb43d9c5e4524cf41a977ed6982f87e3
+      internalID: -2065931466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1042
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e481eeeb5e73904494dbab2327f839d
+      internalID: -1244976442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1043
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d4b9f2e2b228547810dfd1453d0e58
+      internalID: -1986520432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1044
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062b396b09f6dcd49972557149493494
+      internalID: -1260962815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1045
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10244682e760d0438de1f7829797421
+      internalID: -1360908347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1046
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056b7b3b6389eaf45b2183f7d8699f90
+      internalID: -543314542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1047
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18eca33739622b944a1ef507df5cef88
+      internalID: 2090635975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1048
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7a0b435808e8f40b2438e4b155773d
+      internalID: -1124751562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1049
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a064db183bed341bc2e76256723b30
+      internalID: -1355558556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1050
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d74b71490b83f4aad8e24e17bb26b9
+      internalID: 745081431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1051
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6facc55a55262a4db4c42e7d3d79bf9
+      internalID: 504928005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1052
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243d266e9f404084aa496bf8d4649acc
+      internalID: 1961278532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1053
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c97d0d8e6969f94a949e59add187021
+      internalID: -1306733384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1054
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d63a52e60d96064aa27a22684b74a18
+      internalID: -168513055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1055
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aef400341c734e4ebd8183aba48bb17
+      internalID: -690334621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1056
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c87b1585818247a5d78130d90d520
+      internalID: -1612117978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1057
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcf2823a6a6b8a44ab81b9389455999
+      internalID: -1710408788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1058
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fa7f1f8ee127a4691dd4cb507bad0a
+      internalID: -1300647480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1059
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53574f219fdc8354ebace21846100239
+      internalID: 1080350714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1060
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d7fe1561912e49bc9030d3113ad2b
+      internalID: -1653166286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1061
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d702111e50bdb5846ba94523f90b6c75
+      internalID: -1362585779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1062
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b82300e44bed742ab36218e0de25cf
+      internalID: -1534591393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1063
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614f3701e5974b4a9fced495522a902
+      internalID: -677490424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1064
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862a2cf9c0352204c979d7578870634f
+      internalID: 198013504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1065
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7c7d7ffb22b5d4481b1acfd4c017e7
+      internalID: -599241749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1066
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84f81a18ab1704a80ee8b2bd17335f
+      internalID: 671977467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1067
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf14bc800d6e4c149b1c972b739d6fa2
+      internalID: 1310497382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1068
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb270882a18f96d42bffac68af120007
+      internalID: -1086888484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1069
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2ce6dcfd85514488c2a9d83e84ed45
+      internalID: 1316179293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1070
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c0250251cd7bc46814b84c2da12b89
+      internalID: -1494758938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1071
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5695f811424f32448308390e7d806fd
+      internalID: -1878423004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1072
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570f3bbf4cd7f864c986eff002ea067f
+      internalID: 193147881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1073
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352a28ec7a4a14a4db30fe273d7ee965
+      internalID: -747387430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1074
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279ad7287c2a6334ab2d07cf1a2931f3
+      internalID: 1945259606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1075
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfefe2305cc54f34b8147c52c4d55b1b
+      internalID: -81277705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1076
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243e57c385408884093c78143247f6c9
+      internalID: -2035957471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1077
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc8ae3dd4840144b85c397b2eaeb904
+      internalID: -1806375730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1078
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf370df90181ae47b9d399baf71dfda
+      internalID: -241188174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1079
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e64dc014177d144aae370704dd90cd
+      internalID: 19231181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1080
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5fac856a6621c49aeef92679d1cc23
+      internalID: 1318675774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1081
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36487c5b10fdcb4d8c98b6a80bea8ed
+      internalID: -1782260240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1082
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3db9accd202394fa66dc8356c71c99
+      internalID: -814266924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1083
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be467a1b18909b04abbc7ac861d28730
+      internalID: -1910833494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1084
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf01de72e1e02fb4ab8a7a8ed53b06ff
+      internalID: -1135792266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1085
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae09e0d3bdaf1946a30eb063785b4a7
+      internalID: -1240123557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1086
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b37a16376ae574f93a35e03631283c
+      internalID: -797579131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1087
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136def19de2194443b68c16a2d8beeb1
+      internalID: 1501974101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1088
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e67da1ef9095ae47bcc25f515964d03
+      internalID: 152772243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1089
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bb9ce0aee0a2348addde3b7cdb1397
+      internalID: 1367928918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1090
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f86564fb1d474fa0ec5bb0f2c3073
+      internalID: -1559706896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1091
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32bb88d421f0bcb46a0f695a3673d1d0
+      internalID: 1708576488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1092
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3905e510257f54489eedb47960ddc61
+      internalID: -975811779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1093
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48bd31bcd2dcd44ebd96a6569d06a8e
+      internalID: 1043414741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1094
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd682e8814b3b845b73288af455b974
+      internalID: 1505063119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1095
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce25024cea50964384345c4a2575e90
+      internalID: 1699430696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1096
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4819e256b0ab9428e83d048352184f
+      internalID: 646462943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1097
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c40cf6a7abe25b4fa4285c95cbf9acc
+      internalID: 272295398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1098
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92ab86daced1245928daae11870a16
+      internalID: 1446459562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1099
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c6f525f849aa34e9d2eec0550cf86c
+      internalID: -833588805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39aad711e2abe04394f0139692066e4
+      internalID: -756742142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ba1d0a425f5c041a7c9e894624a140
+      internalID: 1065315028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a98757a324a5ea4e89561de57b66d39
+      internalID: 1270597681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1103
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e0771394f915344808ee582333039f
+      internalID: -209414463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1104
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9883c6ec99859e84186a694b1b983c2e
+      internalID: -549730968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1105
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6289587d01b3d4fa632829ebb08fb7
+      internalID: 1410591814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1106
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bcdbacbe37c4845a167975a4917bf6
+      internalID: -53893284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1107
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68a4f1b8e04af34aa4b86c7da390482
+      internalID: -496289392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aef671cccf32241834c1a0599373f1
+      internalID: 1678640159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1109
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e846d00913347b648b6128b29472e8dc
+      internalID: -843299890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1110
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931f2ddca99e4514a9cba3a17759c54d
+      internalID: -1701360350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1111
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f1a250841cf0e4aad0ced3b83af21e
+      internalID: -1411533991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b24845a704a6429bf6e274b8541c7
+      internalID: 81284988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8609e40dc58274b4580771d8ceeec0a9
+      internalID: 1738433249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a023e44ba1374d8be398e042ed039
+      internalID: 1448580735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94421f285cdfdbc439cdc031853021cf
+      internalID: 1363791775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interiors_free_16x16_1116
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b1616441e75df46b8d9e425fd90e6e
+      internalID: -1015034209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Interiors_free_16x16_1060: -1653166286
+      Interiors_free_16x16_209: 1272219087
+      Interiors_free_16x16_663: -807612945
+      Interiors_free_16x16_425: -1668643324
+      Interiors_free_16x16_20: 1526450873
+      Interiors_free_16x16_217: -1177029074
+      Interiors_free_16x16_438: -1739612029
+      Interiors_free_16x16_677: -622877490
+      Interiors_free_16x16_828: 1998690796
+      Interiors_free_16x16_960: 27066687
+      Interiors_free_16x16_1110: -1701360350
+      Interiors_free_16x16_192: 1069597175
+      Interiors_free_16x16_924: -1381128146
+      Interiors_free_16x16_379: 1921874292
+      Interiors_free_16x16_78: -2056922842
+      Interiors_free_16x16_641: 259587003
+      Interiors_free_16x16_782: 1520618894
+      Interiors_free_16x16_572: 1361852349
+      Interiors_free_16x16_71: -324217599
+      Interiors_free_16x16_775: -2080654701
+      Interiors_free_16x16_1108: 1678640159
+      Interiors_free_16x16_340: -1904110817
+      Interiors_free_16x16_63: 941801076
+      Interiors_free_16x16_701: 490035548
+      Interiors_free_16x16_963: -1474605857
+      Interiors_free_16x16_986: -118535531
+      Interiors_free_16x16_107: -616473343
+      Interiors_free_16x16_1047: 2090635975
+      Interiors_free_16x16_485: -120538123
+      Interiors_free_16x16_951: -29165172
+      Interiors_free_16x16_826: 1905309475
+      Interiors_free_16x16_166: -2102695291
+      Interiors_free_16x16_688: -1154696934
+      Interiors_free_16x16_334: -1838693231
+      Interiors_free_16x16_624: 101393020
+      Interiors_free_16x16_141: 1224725542
+      Interiors_free_16x16_685: 507011236
+      Interiors_free_16x16_381: -378452526
+      Interiors_free_16x16_335: -1181155744
+      Interiors_free_16x16_962: 307459516
+      Interiors_free_16x16_720: -336659431
+      Interiors_free_16x16_109: -1512338954
+      Interiors_free_16x16_820: 1532613326
+      Interiors_free_16x16_726: -803777046
+      Interiors_free_16x16_57: -1129342327
+      Interiors_free_16x16_16: 1824846734
+      Interiors_free_16x16_948: -1713176820
+      Interiors_free_16x16_35: -1934771385
+      Interiors_free_16x16_348: 1471002748
+      Interiors_free_16x16_666: 243376546
+      Interiors_free_16x16_55: 1472843854
+      Interiors_free_16x16_1: -1490394992
+      Interiors_free_16x16_784: 494110081
+      Interiors_free_16x16_328: 1900897057
+      Interiors_free_16x16_865: -1169250390
+      Interiors_free_16x16_452: -151623461
+      Interiors_free_16x16_503: 365427873
+      Interiors_free_16x16_462: 1013118331
+      Interiors_free_16x16_168: 271503215
+      Interiors_free_16x16_255: -200420448
+      Interiors_free_16x16_400: -1165410715
+      Interiors_free_16x16_1061: -1362585779
+      Interiors_free_16x16_1102: 1270597681
+      Interiors_free_16x16_849: 1752945562
+      Interiors_free_16x16_317: 2100894637
+      Interiors_free_16x16_1063: -677490424
+      Interiors_free_16x16_294: 928422267
+      Interiors_free_16x16_1053: -1306733384
+      Interiors_free_16x16_24: -612859486
+      Interiors_free_16x16_375: 1893602935
+      Interiors_free_16x16_743: -897590332
+      Interiors_free_16x16_650: -129256380
+      Interiors_free_16x16_1009: -952089445
+      Interiors_free_16x16_757: -451526107
+      Interiors_free_16x16_770: 913451105
+      Interiors_free_16x16_253: -1706012897
+      Interiors_free_16x16_293: 1681752705
+      Interiors_free_16x16_1071: -1878423004
+      Interiors_free_16x16_1091: 1708576488
+      Interiors_free_16x16_362: 814850487
+      Interiors_free_16x16_697: 1317184725
+      Interiors_free_16x16_950: -1281850634
+      Interiors_free_16x16_729: 363413575
+      Interiors_free_16x16_1034: -1029827433
+      Interiors_free_16x16_1019: -609972271
+      Interiors_free_16x16_646: -1652858328
+      Interiors_free_16x16_495: 310862425
+      Interiors_free_16x16_912: 1913514665
+      Interiors_free_16x16_656: -2030959009
+      Interiors_free_16x16_1068: -1086888484
+      Interiors_free_16x16_143: -315605038
+      Interiors_free_16x16_829: -1276731879
+      Interiors_free_16x16_933: 194424171
+      Interiors_free_16x16_974: -731811607
+      Interiors_free_16x16_304: -1995296217
+      Interiors_free_16x16_964: -1921904892
+      Interiors_free_16x16_268: 985837033
+      Interiors_free_16x16_635: -587773409
+      Interiors_free_16x16_1100: -756742142
+      Interiors_free_16x16_944: 1130943464
+      Interiors_free_16x16_28: -715611469
+      Interiors_free_16x16_183: 1658507972
+      Interiors_free_16x16_1051: 504928005
+      Interiors_free_16x16_886: -1092334996
+      Interiors_free_16x16_917: -1274531895
+      Interiors_free_16x16_15: 1456316951
+      Interiors_free_16x16_1099: -833588805
+      Interiors_free_16x16_692: 908645693
+      Interiors_free_16x16_441: 609952443
+      Interiors_free_16x16_198: 2053268344
+      Interiors_free_16x16_902: -893437656
+      Interiors_free_16x16_682: -2049787785
+      Interiors_free_16x16_101: -520883393
+      Interiors_free_16x16_696: 1558626725
+      Interiors_free_16x16_123: -2043701312
+      Interiors_free_16x16_187: 1287715312
+      Interiors_free_16x16_511: 949415173
+      Interiors_free_16x16_40: -1008927376
+      Interiors_free_16x16_236: 1206169468
+      Interiors_free_16x16_82: -1440799557
+      Interiors_free_16x16_118: 267826183
+      Interiors_free_16x16_442: -683459920
+      Interiors_free_16x16_412: 384624366
+      Interiors_free_16x16_825: 624002575
+      Interiors_free_16x16_904: 1920355210
+      Interiors_free_16x16_516: -884257790
+      Interiors_free_16x16_919: 2039250460
+      Interiors_free_16x16_896: 1193760817
+      Interiors_free_16x16_256: -1179653580
+      Interiors_free_16x16_329: -1274965432
+      Interiors_free_16x16_1104: -549730968
+      Interiors_free_16x16_182: -2116668108
+      Interiors_free_16x16_625: 1474903375
+      Interiors_free_16x16_598: 309491815
+      Interiors_free_16x16_605: -1672864346
+      Interiors_free_16x16_765: 819853836
+      Interiors_free_16x16_212: 1031381278
+      Interiors_free_16x16_263: 686588350
+      Interiors_free_16x16_946: 1798622581
+      Interiors_free_16x16_871: -1168661833
+      Interiors_free_16x16_683: 1222788373
+      Interiors_free_16x16_447: 1516454392
+      Interiors_free_16x16_93: -117782406
+      Interiors_free_16x16_445: -2066762323
+      Interiors_free_16x16_774: -2137874431
+      Interiors_free_16x16_621: -681257563
+      Interiors_free_16x16_104: -582771196
+      Interiors_free_16x16_737: 1830910896
+      Interiors_free_16x16_845: 161950491
+      Interiors_free_16x16_360: 253828672
+      Interiors_free_16x16_906: 1894557064
+      Interiors_free_16x16_956: 1656834990
+      Interiors_free_16x16_436: 386474397
+      Interiors_free_16x16_497: 310818705
+      Interiors_free_16x16_460: -1817578452
+      Interiors_free_16x16_374: 179435813
+      Interiors_free_16x16_769: 2070402794
+      Interiors_free_16x16_492: 673935276
+      Interiors_free_16x16_224: 1853088232
+      Interiors_free_16x16_750: -1365447313
+      Interiors_free_16x16_653: -817250861
+      Interiors_free_16x16_1006: 1428232721
+      Interiors_free_16x16_537: -559633312
+      Interiors_free_16x16_563: 1620219872
+      Interiors_free_16x16_935: -1274773450
+      Interiors_free_16x16_472: -1683220456
+      Interiors_free_16x16_662: 768186063
+      Interiors_free_16x16_94: 1756176607
+      Interiors_free_16x16_234: 586696585
+      Interiors_free_16x16_988: 774129953
+      Interiors_free_16x16_378: 1999052942
+      Interiors_free_16x16_274: 1862299325
+      Interiors_free_16x16_619: -1241340717
+      Interiors_free_16x16_637: -1363104016
+      Interiors_free_16x16_1015: 1991718801
+      Interiors_free_16x16_927: -147468614
+      Interiors_free_16x16_999: 297182351
+      Interiors_free_16x16_734: -631816119
+      Interiors_free_16x16_601: 2143581848
+      Interiors_free_16x16_712: -674621181
+      Interiors_free_16x16_660: 1637541189
+      Interiors_free_16x16_1090: -1559706896
+      Interiors_free_16x16_700: -2105995248
+      Interiors_free_16x16_558: -529222011
+      Interiors_free_16x16_570: -1438074613
+      Interiors_free_16x16_897: 1237544588
+      Interiors_free_16x16_125: 1229080999
+      Interiors_free_16x16_163: -1514170216
+      Interiors_free_16x16_738: 1619035137
+      Interiors_free_16x16_1084: -1135792266
+      Interiors_free_16x16_88: 83994071
+      Interiors_free_16x16_1089: 1367928918
+      Interiors_free_16x16_286: -1340289338
+      Interiors_free_16x16_323: 1638098967
+      Interiors_free_16x16_817: 1552177691
+      Interiors_free_16x16_521: -259912611
+      Interiors_free_16x16_316: -35725191
+      Interiors_free_16x16_181: -1868771666
+      Interiors_free_16x16_629: 1480518535
+      Interiors_free_16x16_984: -28441011
+      Interiors_free_16x16_645: -1171113018
+      Interiors_free_16x16_1004: -1779355487
+      Interiors_free_16x16_1022: 1605746671
+      Interiors_free_16x16_496: 598767596
+      Interiors_free_16x16_724: 1565252065
+      Interiors_free_16x16_672: 501399031
+      Interiors_free_16x16_818: 536166687
+      Interiors_free_16x16_409: 102480682
+      Interiors_free_16x16_189: -950066456
+      Interiors_free_16x16_102: -18312964
+      Interiors_free_16x16_119: -617057312
+      Interiors_free_16x16_607: -99578092
+      Interiors_free_16x16_240: 142216977
+      Interiors_free_16x16_354: 1686363369
+      Interiors_free_16x16_768: -1438441859
+      Interiors_free_16x16_3: -1223475463
+      Interiors_free_16x16_173: -922483367
+      Interiors_free_16x16_710: -362122368
+      Interiors_free_16x16_1026: -1078598500
+      Interiors_free_16x16_979: 1333872827
+      Interiors_free_16x16_1062: -1534591393
+      Interiors_free_16x16_751: -518706809
+      Interiors_free_16x16_92: 825266065
+      Interiors_free_16x16_326: 1726200749
+      Interiors_free_16x16_458: 1685356328
+      Interiors_free_16x16_110: -336968899
+      Interiors_free_16x16_121: -2117663083
+      Interiors_free_16x16_793: -453303543
+      Interiors_free_16x16_338: -1116531310
+      Interiors_free_16x16_1024: -363103812
+      Interiors_free_16x16_1111: -1411533991
+      Interiors_free_16x16_131: -550540667
+      Interiors_free_16x16_590: 499633487
+      Interiors_free_16x16_812: 1564020909
+      Interiors_free_16x16_197: 1776654565
+      Interiors_free_16x16_475: 540882861
+      Interiors_free_16x16_749: 1305978439
+      Interiors_free_16x16_158: -1209889722
+      Interiors_free_16x16_557: -758428883
+      Interiors_free_16x16_859: 1234176186
+      Interiors_free_16x16_23: 1390513761
+      Interiors_free_16x16_578: -1886105767
+      Interiors_free_16x16_1003: 1868702896
+      Interiors_free_16x16_337: -555072637
+      Interiors_free_16x16_959: -1386058349
+      Interiors_free_16x16_77: 1566425765
+      Interiors_free_16x16_610: -1211319673
+      Interiors_free_16x16_990: 1568804222
+      Interiors_free_16x16_1036: 1455515269
+      Interiors_free_16x16_70: -1618993405
+      Interiors_free_16x16_571: -474414029
+      Interiors_free_16x16_799: 1809378451
+      Interiors_free_16x16_11: -1254086169
+      Interiors_free_16x16_246: -770892466
+      Interiors_free_16x16_230: -1624495589
+      Interiors_free_16x16_248: 1332831876
+      Interiors_free_16x16_9: 995531787
+      Interiors_free_16x16_722: 1268490835
+      Interiors_free_16x16_407: -647020896
+      Interiors_free_16x16_301: 1536049365
+      Interiors_free_16x16_916: -1960916433
+      Interiors_free_16x16_794: 790559503
+      Interiors_free_16x16_920: 1014757053
+      Interiors_free_16x16_1021: -28350422
+      Interiors_free_16x16_555: -1109906675
+      Interiors_free_16x16_659: -1901175639
+      Interiors_free_16x16_535: 1378338079
+      Interiors_free_16x16_1101: 1065315028
+      Interiors_free_16x16_500: 1897165280
+      Interiors_free_16x16_428: -685244634
+      Interiors_free_16x16_534: 1715566130
+      Interiors_free_16x16_47: -2141528336
+      Interiors_free_16x16_1095: 1699430696
+      Interiors_free_16x16_10: -307218199
+      Interiors_free_16x16_30: 730385072
+      Interiors_free_16x16_265: 2039534139
+      Interiors_free_16x16_561: 1463640721
+      Interiors_free_16x16_730: 973237890
+      Interiors_free_16x16_517: 901661281
+      Interiors_free_16x16_1113: 1738433249
+      Interiors_free_16x16_798: 507057024
+      Interiors_free_16x16_652: 1634460636
+      Interiors_free_16x16_874: -904988757
+      Interiors_free_16x16_80: 1159853328
+      Interiors_free_16x16_37: 1336286352
+      Interiors_free_16x16_60: 1312247513
+      Interiors_free_16x16_115: 1700141931
+      Interiors_free_16x16_349: 1079632531
+      Interiors_free_16x16_245: -562496332
+      Interiors_free_16x16_1109: -843299890
+      Interiors_free_16x16_1033: -1067681149
+      Interiors_free_16x16_593: -1720598456
+      Interiors_free_16x16_523: 994055707
+      Interiors_free_16x16_444: -120621286
+      Interiors_free_16x16_627: 1072332864
+      Interiors_free_16x16_148: 1780180608
+      Interiors_free_16x16_346: -1561384063
+      Interiors_free_16x16_257: -588166379
+      Interiors_free_16x16_546: -1894312680
+      Interiors_free_16x16_1096: 646462943
+      Interiors_free_16x16_699: 1960718788
+      Interiors_free_16x16_402: 1933142296
+      Interiors_free_16x16_579: 1966889860
+      Interiors_free_16x16_651: -24059795
+      Interiors_free_16x16_432: -1865261829
+      Interiors_free_16x16_575: 1301939349
+      Interiors_free_16x16_62: 1281669631
+      Interiors_free_16x16_468: 747824965
+      Interiors_free_16x16_144: -1373874085
+      Interiors_free_16x16_1056: -1612117978
+      Interiors_free_16x16_604: 148865591
+      Interiors_free_16x16_611: -1707260970
+      Interiors_free_16x16_19: -296030765
+      Interiors_free_16x16_98: 1921999593
+      Interiors_free_16x16_205: -735214019
+      Interiors_free_16x16_790: -791976566
+      Interiors_free_16x16_893: 574745937
+      Interiors_free_16x16_855: -154394010
+      Interiors_free_16x16_713: -1077591005
+      Interiors_free_16x16_327: 18356648
+      Interiors_free_16x16_202: -690768201
+      Interiors_free_16x16_589: -1221764518
+      Interiors_free_16x16_772: -1823630953
+      Interiors_free_16x16_393: 318720717
+      Interiors_free_16x16_196: 1497596348
+      Interiors_free_16x16_52: 781082949
+      Interiors_free_16x16_291: 892640180
+      Interiors_free_16x16_258: 887092295
+      Interiors_free_16x16_250: 1881691870
+      Interiors_free_16x16_147: 1447499727
+      Interiors_free_16x16_505: 2079871338
+      Interiors_free_16x16_548: 826687414
+      Interiors_free_16x16_1086: -797579131
+      Interiors_free_16x16_721: 963520422
+      Interiors_free_16x16_801: -2134678598
+      Interiors_free_16x16_541: -547048064
+      Interiors_free_16x16_806: -1449394915
+      Interiors_free_16x16_279: 2027292125
+      Interiors_free_16x16_755: 190425871
+      Interiors_free_16x16_140: 127062222
+      Interiors_free_16x16_243: -959233131
+      Interiors_free_16x16_795: 1251147271
+      Interiors_free_16x16_178: 1753665135
+      Interiors_free_16x16_938: -1133335485
+      Interiors_free_16x16_851: 800271054
+      Interiors_free_16x16_314: 1586358104
+      Interiors_free_16x16_599: 1713441220
+      Interiors_free_16x16_424: 1934791220
+      Interiors_free_16x16_638: 365286354
+      Interiors_free_16x16_831: -1317791221
+      Interiors_free_16x16_914: -596986763
+      Interiors_free_16x16_174: -1386352496
+      Interiors_free_16x16_929: -487685971
+      Interiors_free_16x16_398: -916829256
+      Interiors_free_16x16_670: 158351493
+      Interiors_free_16x16_463: -1149084209
+      Interiors_free_16x16_807: -1849790297
+      Interiors_free_16x16_830: 1454812143
+      Interiors_free_16x16_880: 522497925
+      Interiors_free_16x16_1114: 1448580735
+      Interiors_free_16x16_417: 1223912959
+      Interiors_free_16x16_762: -2018824337
+      Interiors_free_16x16_373: -1356965
+      Interiors_free_16x16_106: -545789348
+      Interiors_free_16x16_455: 975139740
+      Interiors_free_16x16_695: -924354040
+      Interiors_free_16x16_529: 1799565555
+      Interiors_free_16x16_564: -1710649075
+      Interiors_free_16x16_32: -1410914807
+      Interiors_free_16x16_127: 174859382
+      Interiors_free_16x16_204: -603125197
+      Interiors_free_16x16_179: -1166557066
+      Interiors_free_16x16_247: -561108580
+      Interiors_free_16x16_1057: -1710408788
+      Interiors_free_16x16_836: -1900957700
+      Interiors_free_16x16_901: 467111323
+      Interiors_free_16x16_116: -2047163566
+      Interiors_free_16x16_483: -2144417236
+      Interiors_free_16x16_96: -1577276081
+      Interiors_free_16x16_451: -1850826829
+      Interiors_free_16x16_395: -527279178
+      Interiors_free_16x16_658: 848121110
+      Interiors_free_16x16_380: 50359319
+      Interiors_free_16x16_486: 946828808
+      Interiors_free_16x16_1001: -551118278
+      Interiors_free_16x16_474: 2144340663
+      Interiors_free_16x16_12: 1506038689
+      Interiors_free_16x16_567: -1732380398
+      Interiors_free_16x16_336: 1667240467
+      Interiors_free_16x16_913: -1508988820
+      Interiors_free_16x16_129: -1095439331
+      Interiors_free_16x16_282: -1016638989
+      Interiors_free_16x16_1048: -1124751562
+      Interiors_free_16x16_1007: 579194495
+      Interiors_free_16x16_767: 56440118
+      Interiors_free_16x16_837: 1007786223
+      Interiors_free_16x16_271: 1953171576
+      Interiors_free_16x16_526: -1135253758
+      Interiors_free_16x16_978: 2073471787
+      Interiors_free_16x16_580: -1255734792
+      Interiors_free_16x16_735: 1360595146
+      Interiors_free_16x16_789: -844775165
+      Interiors_free_16x16_602: -206218872
+      Interiors_free_16x16_536: 143483180
+      Interiors_free_16x16_79: -1303599433
+      Interiors_free_16x16_382: 1827680048
+      Interiors_free_16x16_577: 207407771
+      Interiors_free_16x16_925: 664500452
+      Interiors_free_16x16_949: -1923391080
+      Interiors_free_16x16_739: -1215385308
+      Interiors_free_16x16_1025: -1356348732
+      Interiors_free_16x16_266: -2132880762
+      Interiors_free_16x16_97: 1259091570
+      Interiors_free_16x16_421: -1666544753
+      Interiors_free_16x16_622: 1982772514
+      Interiors_free_16x16_846: -1602088765
+      Interiors_free_16x16_841: -2077335571
+      Interiors_free_16x16_945: 1150235078
+      Interiors_free_16x16_296: -69665311
+      Interiors_free_16x16_891: 1198065741
+      Interiors_free_16x16_482: -611096438
+      Interiors_free_16x16_674: -508517539
+      Interiors_free_16x16_821: -1605463521
+      Interiors_free_16x16_703: 1500233730
+      Interiors_free_16x16_1027: 674780388
+      Interiors_free_16x16_995: -413711129
+      Interiors_free_16x16_175: 448270042
+      Interiors_free_16x16_680: -1856029694
+      Interiors_free_16x16_272: 1370730231
+      Interiors_free_16x16_987: -813787032
+      Interiors_free_16x16_519: -633917330
+      Interiors_free_16x16_754: 2030278307
+      Interiors_free_16x16_748: -1126258037
+      Interiors_free_16x16_640: 1391232375
+      Interiors_free_16x16_36: -877216231
+      Interiors_free_16x16_145: 727072125
+      Interiors_free_16x16_973: -1022762298
+      Interiors_free_16x16_553: -720472609
+      Interiors_free_16x16_547: -2042605156
+      Interiors_free_16x16_998: 941967635
+      Interiors_free_16x16_711: -480316997
+      Interiors_free_16x16_777: -457477423
+      Interiors_free_16x16_403: 850520707
+      Interiors_free_16x16_1035: -327030531
+      Interiors_free_16x16_888: 1890127234
+      Interiors_free_16x16_389: 410394328
+      Interiors_free_16x16_885: 1266929693
+      Interiors_free_16x16_429: 549364661
+      Interiors_free_16x16_856: -58701856
+      Interiors_free_16x16_873: 1669936293
+      Interiors_free_16x16_649: 196536644
+      Interiors_free_16x16_370: -223646840
+      Interiors_free_16x16_900: -853047695
+      Interiors_free_16x16_85: 180091074
+      Interiors_free_16x16_21: -407627931
+      Interiors_free_16x16_7: -1739979612
+      Interiors_free_16x16_1049: -1355558556
+      Interiors_free_16x16_68: 1721827622
+      Interiors_free_16x16_480: -824186352
+      Interiors_free_16x16_862: 1246567547
+      Interiors_free_16x16_427: 748873
+      Interiors_free_16x16_957: 771688676
+      Interiors_free_16x16_76: -1436002745
+      Interiors_free_16x16_298: -848642734
+      Interiors_free_16x16_882: -620094875
+      Interiors_free_16x16_1040: -1086198655
+      Interiors_free_16x16_368: 1062818452
+      Interiors_free_16x16_971: 1969207815
+      Interiors_free_16x16_744: -79106519
+      Interiors_free_16x16_366: -1895734513
+      Interiors_free_16x16_870: -99803555
+      Interiors_free_16x16_171: 905188901
+      Interiors_free_16x16_531: -1421053013
+      Interiors_free_16x16_295: 1735975076
+      Interiors_free_16x16_583: -1804925999
+      Interiors_free_16x16_324: -1919726544
+      Interiors_free_16x16_440: 313721164
+      Interiors_free_16x16_872: -1145485181
+      Interiors_free_16x16_603: 1020631998
+      Interiors_free_16x16_791: 1822501833
+      Interiors_free_16x16_186: 893886775
+      Interiors_free_16x16_161: 884961564
+      Interiors_free_16x16_58: -297517198
+      Interiors_free_16x16_249: 1618729332
+      Interiors_free_16x16_803: 1180579373
+      Interiors_free_16x16_560: 234680629
+      Interiors_free_16x16_190: 664111773
+      Interiors_free_16x16_532: -515906016
+      Interiors_free_16x16_642: 470403338
+      Interiors_free_16x16_1045: -1360908347
+      Interiors_free_16x16_636: 1019457470
+      Interiors_free_16x16_169: 1333973218
+      Interiors_free_16x16_44: -445036284
+      Interiors_free_16x16_690: 678967647
+      Interiors_free_16x16_222: -1774913180
+      Interiors_free_16x16_1081: -1782260240
+      Interiors_free_16x16_91: 1373019772
+      Interiors_free_16x16_867: 1721509689
+      Interiors_free_16x16_779: -982431494
+      Interiors_free_16x16_678: -2041106692
+      Interiors_free_16x16_221: 1585216722
+      Interiors_free_16x16_1112: 81284988
+      Interiors_free_16x16_947: -582331498
+      Interiors_free_16x16_288: 1025263585
+      Interiors_free_16x16_1097: 272295398
+      Interiors_free_16x16_863: -2089904684
+      Interiors_free_16x16_120: 32431721
+      Interiors_free_16x16_86: -514533322
+      Interiors_free_16x16_864: 1581969529
+      Interiors_free_16x16_48: -1978170971
+      Interiors_free_16x16_233: 101093852
+      Interiors_free_16x16_87: 1590970751
+      Interiors_free_16x16_159: -1703204959
+      Interiors_free_16x16_591: -1435082983
+      Interiors_free_16x16_804: -1586026470
+      Interiors_free_16x16_525: -2137716085
+      Interiors_free_16x16_968: -1016883240
+      Interiors_free_16x16_419: -907600299
+      Interiors_free_16x16_151: -413112400
+      Interiors_free_16x16_883: 1301896395
+      Interiors_free_16x16_1070: -1494758938
+      Interiors_free_16x16_165: 1134540540
+      Interiors_free_16x16_868: 1627883437
+      Interiors_free_16x16_714: 1856692699
+      Interiors_free_16x16_270: -1504050654
+      Interiors_free_16x16_172: 1667176949
+      Interiors_free_16x16_797: 1636714882
+      Interiors_free_16x16_905: -1133458251
+      Interiors_free_16x16_371: 1439635420
+      Interiors_free_16x16_229: 862276873
+      Interiors_free_16x16_588: -1494327868
+      Interiors_free_16x16_776: 90863876
+      Interiors_free_16x16_704: -1233229976
+      Interiors_free_16x16_392: -520995209
+      Interiors_free_16x16_27: 1942527626
+      Interiors_free_16x16_313: 326716986
+      Interiors_free_16x16_620: 1653658701
+      Interiors_free_16x16_199: 1645604027
+      Interiors_free_16x16_759: -1347774398
+      Interiors_free_16x16_413: 267944753
+      Interiors_free_16x16_1076: -2035957471
+      Interiors_free_16x16_17: 2022537000
+      Interiors_free_16x16_83: 474911695
+      Interiors_free_16x16_844: -352464119
+      Interiors_free_16x16_574: 927385045
+      Interiors_free_16x16_895: 84412434
+      Interiors_free_16x16_262: -1352029527
+      Interiors_free_16x16_45: -110022629
+      Interiors_free_16x16_884: -110042390
+      Interiors_free_16x16_311: 1505465306
+      Interiors_free_16x16_515: -1869893355
+      Interiors_free_16x16_727: 1197531419
+      Interiors_free_16x16_634: -1984795689
+      Interiors_free_16x16_600: 1911943459
+      Interiors_free_16x16_975: 316878439
+      Interiors_free_16x16_716: 1782530739
+      Interiors_free_16x16_708: 252193544
+      Interiors_free_16x16_816: 1401949271
+      Interiors_free_16x16_796: 1306972368
+      Interiors_free_16x16_908: 1660246957
+      Interiors_free_16x16_942: -575303882
+      Interiors_free_16x16_1000: -882051583
+      Interiors_free_16x16_331: 373934794
+      Interiors_free_16x16_615: -459874961
+      Interiors_free_16x16_866: -502482889
+      Interiors_free_16x16_993: -212501167
+      Interiors_free_16x16_489: 1042400075
+      Interiors_free_16x16_1105: 1410591814
+      Interiors_free_16x16_358: 1188654149
+      Interiors_free_16x16_1018: -465370158
+      Interiors_free_16x16_792: -703676308
+      Interiors_free_16x16_764: -408575178
+      Interiors_free_16x16_614: -1863334468
+      Interiors_free_16x16_473: 2068685019
+      Interiors_free_16x16_858: 1737620672
+      Interiors_free_16x16_214: 919793559
+      Interiors_free_16x16_746: 200271030
+      Interiors_free_16x16_132: -1239828654
+      Interiors_free_16x16_134: -1391240630
+      Interiors_free_16x16_1088: 152772243
+      Interiors_free_16x16_504: 909528079
+      Interiors_free_16x16_252: 464605567
+      Interiors_free_16x16_231: -1907844518
+      Interiors_free_16x16_405: -258684492
+      Interiors_free_16x16_387: 1281870682
+      Interiors_free_16x16_681: -1974313559
+      Interiors_free_16x16_321: 809309081
+      Interiors_free_16x16_687: 717055759
+      Interiors_free_16x16_731: -1018037320
+      Interiors_free_16x16_594: -1748412987
+      Interiors_free_16x16_238: -1643418131
+      Interiors_free_16x16_549: 744820131
+      Interiors_free_16x16_410: -910924292
+      Interiors_free_16x16_684: -611300662
+      Interiors_free_16x16_562: -1798921965
+      Interiors_free_16x16_689: -1697297728
+      Interiors_free_16x16_994: -1621359643
+      Interiors_free_16x16_401: 1161009908
+      Interiors_free_16x16_434: -1540851479
+      Interiors_free_16x16_566: -1662992016
+      Interiors_free_16x16_478: 2062122239
+      Interiors_free_16x16_443: -997667110
+      Interiors_free_16x16_997: -1806160584
+      Interiors_free_16x16_1094: 1505063119
+      Interiors_free_16x16_540: -2123133177
+      Interiors_free_16x16_133: -711447146
+      Interiors_free_16x16_206: -1342158366
+      Interiors_free_16x16_1029: 13974255
+      Interiors_free_16x16_1075: -81277705
+      Interiors_free_16x16_1074: 1945259606
+      Interiors_free_16x16_1085: -1240123557
+      Interiors_free_16x16_345: 780748706
+      Interiors_free_16x16_1092: -975811779
+      Interiors_free_16x16_310: -945118027
+      Interiors_free_16x16_644: 246620241
+      Interiors_free_16x16_1014: -1551066574
+      Interiors_free_16x16_781: 1804683043
+      Interiors_free_16x16_471: 2060221267
+      Interiors_free_16x16_928: -477395519
+      Interiors_free_16x16_773: 792501415
+      Interiors_free_16x16_1030: 1392048471
+      Interiors_free_16x16_180: 319009255
+      Interiors_free_16x16_207: -562240273
+      Interiors_free_16x16_332: -387810367
+      Interiors_free_16x16_1077: -1806375730
+      Interiors_free_16x16_918: -1332625820
+      Interiors_free_16x16_352: 614566666
+      Interiors_free_16x16_152: -1906705721
+      Interiors_free_16x16_587: 589741228
+      Interiors_free_16x16_136: 1628768117
+      Interiors_free_16x16_277: -1045846307
+      Interiors_free_16x16_982: 857027590
+      Interiors_free_16x16_84: -1726268916
+      Interiors_free_16x16_38: 861463819
+      Interiors_free_16x16_105: -548814803
+      Interiors_free_16x16_153: 1227805244
+      Interiors_free_16x16_1054: -168513055
+      Interiors_free_16x16_811: 2063206933
+      Interiors_free_16x16_287: -795458513
+      Interiors_free_16x16_850: -2081308507
+      Interiors_free_16x16_889: -1304254720
+      Interiors_free_16x16_824: -1662506971
+      Interiors_free_16x16_292: 1770336851
+      Interiors_free_16x16_399: -1575475152
+      Interiors_free_16x16_210: 2023982498
+      Interiors_free_16x16_315: 113892176
+      Interiors_free_16x16_805: 695017874
+      Interiors_free_16x16_396: 1305613979
+      Interiors_free_16x16_225: 151052383
+      Interiors_free_16x16_1069: 1316179293
+      Interiors_free_16x16_508: -1520364532
+      Interiors_free_16x16_356: -108000907
+      Interiors_free_16x16_502: -1491372563
+      Interiors_free_16x16_406: -1526620872
+      Interiors_free_16x16_513: 719116045
+      Interiors_free_16x16_760: -689682272
+      Interiors_free_16x16_977: -637384349
+      Interiors_free_16x16_617: -1325067670
+      Interiors_free_16x16_717: 734098906
+      Interiors_free_16x16_351: 2138548921
+      Interiors_free_16x16_31: -226381501
+      Interiors_free_16x16_632: -1066173666
+      Interiors_free_16x16_676: -867033384
+      Interiors_free_16x16_155: 1455734063
+      Interiors_free_16x16_1028: 609978152
+      Interiors_free_16x16_219: -1987010566
+      Interiors_free_16x16_467: -2070343689
+      Interiors_free_16x16_353: -125808982
+      Interiors_free_16x16_643: -610664608
+      Interiors_free_16x16_1041: -2065931466
+      Interiors_free_16x16_911: 1823510528
+      Interiors_free_16x16_465: 143899648
+      Interiors_free_16x16_903: 825076636
+      Interiors_free_16x16_823: -942989979
+      Interiors_free_16x16_476: -891007932
+      Interiors_free_16x16_487: 314857647
+      Interiors_free_16x16_506: 1389608562
+      Interiors_free_16x16_167: 714773975
+      Interiors_free_16x16_359: 534009637
+      Interiors_free_16x16_494: 378195685
+      Interiors_free_16x16_278: -1448796247
+      Interiors_free_16x16_556: 1569697002
+      Interiors_free_16x16_551: -1189104878
+      Interiors_free_16x16_573: 1456480328
+      Interiors_free_16x16_809: -303793354
+      Interiors_free_16x16_616: -1367005060
+      Interiors_free_16x16_319: -1102917889
+      Interiors_free_16x16_932: 213866623
+      Interiors_free_16x16_965: 703054218
+      Interiors_free_16x16_664: 237990500
+      Interiors_free_16x16_810: 2007395031
+      Interiors_free_16x16_363: 1366432362
+      Interiors_free_16x16_631: -36147843
+      Interiors_free_16x16_22: -42798034
+      Interiors_free_16x16_435: -2141590107
+      Interiors_free_16x16_958: -1998525463
+      Interiors_free_16x16_454: -907025759
+      Interiors_free_16x16_1082: -814266924
+      Interiors_free_16x16_1058: -1300647480
+      Interiors_free_16x16_188: -1017590343
+      Interiors_free_16x16_741: -1983599915
+      Interiors_free_16x16_273: 1624889409
+      Interiors_free_16x16_742: -1465824138
+      Interiors_free_16x16_766: 2043447794
+      Interiors_free_16x16_878: -1005432338
+      Interiors_free_16x16_613: -449978108
+      Interiors_free_16x16_668: -1966384232
+      Interiors_free_16x16_365: 988767171
+      Interiors_free_16x16_910: 1286111929
+      Interiors_free_16x16_1066: 671977467
+      Interiors_free_16x16_2: -14875176
+      Interiors_free_16x16_756: 272968241
+      Interiors_free_16x16_1103: -209414463
+      Interiors_free_16x16_915: -246778570
+      Interiors_free_16x16_394: 1877972945
+      Interiors_free_16x16_802: -932803073
+      Interiors_free_16x16_66: 1580363638
+      Interiors_free_16x16_608: 1258179084
+      Interiors_free_16x16_386: -416052726
+      Interiors_free_16x16_1031: -592031097
+      Interiors_free_16x16_355: -1895423822
+      Interiors_free_16x16_469: -1941262719
+      Interiors_free_16x16_848: -896430105
+      Interiors_free_16x16_177: 708217478
+      Interiors_free_16x16_788: -666396150
+      Interiors_free_16x16_322: 83643632
+      Interiors_free_16x16_53: -688277664
+      Interiors_free_16x16_493: -694297423
+      Interiors_free_16x16_582: -1340738152
+      Interiors_free_16x16_281: 426384838
+      Interiors_free_16x16_655: -1053636487
+      Interiors_free_16x16_433: -1335934066
+      Interiors_free_16x16_609: 258876148
+      Interiors_free_16x16_822: 1684204928
+      Interiors_free_16x16_201: 866785783
+      Interiors_free_16x16_305: 1003347245
+      Interiors_free_16x16_318: 217301306
+      Interiors_free_16x16_456: -521537480
+      Interiors_free_16x16_137: 717131582
+      Interiors_free_16x16_654: 1157326009
+      Interiors_free_16x16_216: 282625071
+      Interiors_free_16x16_226: -2030225619
+      Interiors_free_16x16_8: -1196992065
+      Interiors_free_16x16_852: 483663085
+      Interiors_free_16x16_592: 957457005
+      Interiors_free_16x16_657: 719293605
+      Interiors_free_16x16_289: -1381594332
+      Interiors_free_16x16_484: -1805702986
+      Interiors_free_16x16_879: 1267700272
+      Interiors_free_16x16_422: 2138287868
+      Interiors_free_16x16_943: 1181302962
+      Interiors_free_16x16_509: 1795297947
+      Interiors_free_16x16_671: 746025534
+      Interiors_free_16x16_931: 1895799614
+      Interiors_free_16x16_408: -954894022
+      Interiors_free_16x16_1008: -138954860
+      Interiors_free_16x16_1059: 1080350714
+      Interiors_free_16x16_815: -1175842771
+      Interiors_free_16x16_1115: 1363791775
+      Interiors_free_16x16_418: 1773707132
+      Interiors_free_16x16_308: 1731436348
+      Interiors_free_16x16_926: 810510901
+      Interiors_free_16x16_569: -991037283
+      Interiors_free_16x16_736: -54740864
+      Interiors_free_16x16_46: 1159608731
+      Interiors_free_16x16_431: 1690623405
+      Interiors_free_16x16_280: -2047145332
+      Interiors_free_16x16_160: 1937334417
+      Interiors_free_16x16_464: -1767954274
+      Interiors_free_16x16_719: -72303958
+      Interiors_free_16x16_923: 45417952
+      Interiors_free_16x16_1010: 1659736248
+      Interiors_free_16x16_67: -1464859721
+      Interiors_free_16x16_302: 1726362585
+      Interiors_free_16x16_223: -1309351866
+      Interiors_free_16x16_99: 2033281186
+      Interiors_free_16x16_479: 621076605
+      Interiors_free_16x16_113: 1763949753
+      Interiors_free_16x16_73: -237556433
+      Interiors_free_16x16_235: -1519863793
+      Interiors_free_16x16_1017: -1538951448
+      Interiors_free_16x16_383: 636574024
+      Interiors_free_16x16_834: -2101581619
+      Interiors_free_16x16_953: 903265752
+      Interiors_free_16x16_842: -1954203022
+      Interiors_free_16x16_934: 1946158190
+      Interiors_free_16x16_1002: 896961993
+      Interiors_free_16x16_565: -777721818
+      Interiors_free_16x16_385: 1819483214
+      Interiors_free_16x16_283: -1039178369
+      Interiors_free_16x16_320: 1126986058
+      Interiors_free_16x16_25: -1506937184
+      Interiors_free_16x16_111: -1279983683
+      Interiors_free_16x16_520: -983786914
+      Interiors_free_16x16_114: 2080815205
+      Interiors_free_16x16_203: 391632671
+      Interiors_free_16x16_694: 2080030711
+      Interiors_free_16x16_586: -590695258
+      Interiors_free_16x16_952: 512725629
+      Interiors_free_16x16_100: -1744244141
+      Interiors_free_16x16_875: -1435979464
+      Interiors_free_16x16_139: -1849869994
+      Interiors_free_16x16_170: -1587317463
+      Interiors_free_16x16_835: 2017795703
+      Interiors_free_16x16_985: 572339116
+      Interiors_free_16x16_961: 975618858
+      Interiors_free_16x16_1046: -543314542
+      Interiors_free_16x16_983: 564288026
+      Interiors_free_16x16_1013: 98120199
+      Interiors_free_16x16_1005: 356210891
+      Interiors_free_16x16_877: -256685675
+      Interiors_free_16x16_787: 2061617764
+      Interiors_free_16x16_847: -1734297778
+      Interiors_free_16x16_49: 1510229214
+      Interiors_free_16x16_709: 1604859982
+      Interiors_free_16x16_1078: -241188174
+      Interiors_free_16x16_404: -1468276371
+      Interiors_free_16x16_461: 1972280790
+      Interiors_free_16x16_149: 639311992
+      Interiors_free_16x16_65: -1927807769
+      Interiors_free_16x16_361: -1258605950
+      Interiors_free_16x16_778: -1586361461
+      Interiors_free_16x16_5: -1622681292
+      Interiors_free_16x16_800: -1513288334
+      Interiors_free_16x16_854: 996880688
+      Interiors_free_16x16_213: 2072244765
+      Interiors_free_16x16_185: -613741408
+      Interiors_free_16x16_937: -1228824116
+      Interiors_free_16x16_122: -1818847746
+      Interiors_free_16x16_227: 602497973
+      Interiors_free_16x16_330: -1708401242
+      Interiors_free_16x16_890: 406811829
+      Interiors_free_16x16_1087: 1501974101
+      Interiors_free_16x16_154: 2081478682
+      Interiors_free_16x16_350: -361860646
+      Interiors_free_16x16_514: -22514543
+      Interiors_free_16x16_1043: -1986520432
+      Interiors_free_16x16_1042: -1244976442
+      Interiors_free_16x16_372: 1036183706
+      Interiors_free_16x16_980: -1488422047
+      Interiors_free_16x16_1106: -53893284
+      Interiors_free_16x16_740: -589948004
+      Interiors_free_16x16_838: 81003973
+      Interiors_free_16x16_733: 1391739975
+      Interiors_free_16x16_669: 898433540
+      Interiors_free_16x16_954: -381693888
+      Interiors_free_16x16_647: -210720647
+      Interiors_free_16x16_1038: -2146169847
+      Interiors_free_16x16_530: 1463021896
+      Interiors_free_16x16_103: -1600352330
+      Interiors_free_16x16_527: 1890246718
+      Interiors_free_16x16_241: -2106311415
+      Interiors_free_16x16_501: -2053288146
+      Interiors_free_16x16_544: -1459490550
+      Interiors_free_16x16_675: -2103979627
+      Interiors_free_16x16_325: 266289097
+      Interiors_free_16x16_989: -749591787
+      Interiors_free_16x16_626: 2046465837
+      Interiors_free_16x16_628: 843244384
+      Interiors_free_16x16_339: 56603935
+      Interiors_free_16x16_1032: -446074171
+      Interiors_free_16x16_1093: 1043414741
+      Interiors_free_16x16_832: -1701970999
+      Interiors_free_16x16_538: -490074707
+      Interiors_free_16x16_808: -1327495938
+      Interiors_free_16x16_718: 1372278058
+      Interiors_free_16x16_39: -736446789
+      Interiors_free_16x16_423: 981013207
+      Interiors_free_16x16_686: -562220189
+      Interiors_free_16x16_164: 445599681
+      Interiors_free_16x16_81: -719851922
+      Interiors_free_16x16_184: 1302789475
+      Interiors_free_16x16_237: -1448863674
+      Interiors_free_16x16_693: -183787512
+      Interiors_free_16x16_69: 912878195
+      Interiors_free_16x16_761: -1009915809
+      Interiors_free_16x16_597: -1569754816
+      Interiors_free_16x16_1073: -747387430
+      Interiors_free_16x16_42: 270532221
+      Interiors_free_16x16_785: 1609934581
+      Interiors_free_16x16_706: -1841811582
+      Interiors_free_16x16_194: -786680242
+      Interiors_free_16x16_970: -156606750
+      Interiors_free_16x16_1044: -1260962815
+      Interiors_free_16x16_499: -2135548938
+      Interiors_free_16x16_61: -1978436063
+      Interiors_free_16x16_552: -2051678576
+      Interiors_free_16x16_89: -934329168
+      Interiors_free_16x16_665: -758335925
+      Interiors_free_16x16_898: -1891702068
+      Interiors_free_16x16_14: 1005752390
+      Interiors_free_16x16_299: 182292316
+      Interiors_free_16x16_783: 1739049198
+      Interiors_free_16x16_390: 196858232
+      Interiors_free_16x16_752: -1937538244
+      Interiors_free_16x16_191: 1421753787
+      Interiors_free_16x16_26: 929817467
+      Interiors_free_16x16_490: -1679966071
+      Interiors_free_16x16_969: 1098619145
+      Interiors_free_16x16_193: -1514183310
+      Interiors_free_16x16_300: 1498108467
+      Interiors_free_16x16_416: 1306414701
+      Interiors_free_16x16_344: 1332535871
+      Interiors_free_16x16_972: 762005539
+      Interiors_free_16x16_215: -704560283
+      Interiors_free_16x16_90: 1445024902
+      Interiors_free_16x16_481: 533084387
+      Interiors_free_16x16_853: 902493106
+      Interiors_free_16x16_892: 1997932444
+      Interiors_free_16x16_391: 337070370
+      Interiors_free_16x16_254: 485571146
+      Interiors_free_16x16_312: 51827474
+      Interiors_free_16x16_303: -1947613896
+      Interiors_free_16x16_585: -1096164662
+      Interiors_free_16x16_630: -1758329004
+      Interiors_free_16x16_922: -1118618267
+      Interiors_free_16x16_251: -1497948919
+      Interiors_free_16x16_420: -2117339165
+      Interiors_free_16x16_813: 383500115
+      Interiors_free_16x16_347: -1062246360
+      Interiors_free_16x16_117: 1522181954
+      Interiors_free_16x16_827: 1048434682
+      Interiors_free_16x16_488: 1061785365
+      Interiors_free_16x16_64: -2052446959
+      Interiors_free_16x16_732: 803865689
+      Interiors_free_16x16_753: 1802671255
+      Interiors_free_16x16_470: 161282892
+      Interiors_free_16x16_543: 1441941120
+      Interiors_free_16x16_568: 1058321488
+      Interiors_free_16x16_112: 1220862092
+      Interiors_free_16x16_907: 1636225087
+      Interiors_free_16x16_595: -1689836901
+      Interiors_free_16x16_861: -1097465498
+      Interiors_free_16x16_691: -521181313
+      Interiors_free_16x16_232: 458200469
+      Interiors_free_16x16_843: 1695965575
+      Interiors_free_16x16_415: 1425090346
+      Interiors_free_16x16_50: -758254964
+      Interiors_free_16x16_367: 1274129447
+      Interiors_free_16x16_528: 1464437405
+      Interiors_free_16x16_162: -1763407644
+      Interiors_free_16x16_1016: -1236750776
+      Interiors_free_16x16_156: 1628289151
+      Interiors_free_16x16_276: -98970447
+      Interiors_free_16x16_437: -235725711
+      Interiors_free_16x16_728: -1211770377
+      Interiors_free_16x16_430: 1521075833
+      Interiors_free_16x16_539: 1125783585
+      Interiors_free_16x16_228: 107606810
+      Interiors_free_16x16_29: -1062997368
+      Interiors_free_16x16_72: 981619686
+      Interiors_free_16x16_876: 235742550
+      Interiors_free_16x16_1012: 155665546
+      Interiors_free_16x16_992: 1124524954
+      Interiors_free_16x16_200: -250842824
+      Interiors_free_16x16_623: -320938860
+      Interiors_free_16x16_881: 676594354
+      Interiors_free_16x16_75: 2087304806
+      Interiors_free_16x16_135: 848344578
+      Interiors_free_16x16_309: 543576265
+      Interiors_free_16x16_426: 182924402
+      Interiors_free_16x16_612: -408474410
+      Interiors_free_16x16_606: 938665949
+      Interiors_free_16x16_297: -886548222
+      Interiors_free_16x16_466: -741851853
+      Interiors_free_16x16_707: 224875986
+      Interiors_free_16x16_857: 1843543197
+      Interiors_free_16x16_211: 1540155214
+      Interiors_free_16x16_341: -1512952819
+      Interiors_free_16x16_285: -1174007057
+      Interiors_free_16x16_715: 874209890
+      Interiors_free_16x16_899: -1847310151
+      Interiors_free_16x16_512: -1291274688
+      Interiors_free_16x16_142: -117256286
+      Interiors_free_16x16_450: 657789834
+      Interiors_free_16x16_673: -1460426356
+      Interiors_free_16x16_702: -644366765
+      Interiors_free_16x16_819: 1933184009
+      Interiors_free_16x16_176: -1397914109
+      Interiors_free_16x16_1055: -690334621
+      Interiors_free_16x16_780: 983453311
+      Interiors_free_16x16_4: -1242555577
+      Interiors_free_16x16_639: 252006920
+      Interiors_free_16x16_218: -304311162
+      Interiors_free_16x16_491: -1170164532
+      Interiors_free_16x16_1080: 1318675774
+      Interiors_free_16x16_581: 1113649697
+      Interiors_free_16x16_667: -1595745556
+      Interiors_free_16x16_269: 1482677026
+      Interiors_free_16x16_124: -487928751
+      Interiors_free_16x16_6: -1734634015
+      Interiors_free_16x16_941: -1333267894
+      Interiors_free_16x16_260: 352286166
+      Interiors_free_16x16_267: -2035606643
+      Interiors_free_16x16_966: -1679136983
+      Interiors_free_16x16_522: -1266730546
+      Interiors_free_16x16_1064: 198013504
+      Interiors_free_16x16_264: -895098737
+      Interiors_free_16x16_342: -1129309934
+      Interiors_free_16x16_498: -1836675386
+      Interiors_free_16x16_894: 90560865
+      Interiors_free_16x16_967: -2139946589
+      Interiors_free_16x16_839: -1290508525
+      Interiors_free_16x16_1037: 38180051
+      Interiors_free_16x16_1050: 745081431
+      Interiors_free_16x16_384: -523352099
+      Interiors_free_16x16_976: -38768737
+      Interiors_free_16x16_1116: -1015034209
+      Interiors_free_16x16_377: -1584992070
+      Interiors_free_16x16_633: 2045040178
+      Interiors_free_16x16_698: 1361858465
+      Interiors_free_16x16_128: 281983408
+      Interiors_free_16x16_333: 751717018
+      Interiors_free_16x16_157: 602488168
+      Interiors_free_16x16_449: -1243167033
+      Interiors_free_16x16_533: 1972408213
+      Interiors_free_16x16_833: -163160419
+      Interiors_free_16x16_1107: -496289392
+      Interiors_free_16x16_940: 1942272358
+      Interiors_free_16x16_459: 1814967078
+      Interiors_free_16x16_126: -1656092841
+      Interiors_free_16x16_747: 565990487
+      Interiors_free_16x16_1052: 1961278532
+      Interiors_free_16x16_195: 2012046789
+      Interiors_free_16x16_364: -945299109
+      Interiors_free_16x16_376: 605928788
+      Interiors_free_16x16_369: 501984234
+      Interiors_free_16x16_284: 244220305
+      Interiors_free_16x16_840: 1176794367
+      Interiors_free_16x16_56: 1372197486
+      Interiors_free_16x16_261: 1539581738
+      Interiors_free_16x16_1065: -599241749
+      Interiors_free_16x16_771: -462440796
+      Interiors_free_16x16_457: -1366624789
+      Interiors_free_16x16_239: 173755921
+      Interiors_free_16x16_146: 387224709
+      Interiors_free_16x16_0: 1937357527
+      Interiors_free_16x16_414: -1117010995
+      Interiors_free_16x16_220: -1971986469
+      Interiors_free_16x16_723: 925544900
+      Interiors_free_16x16_996: 1266423084
+      Interiors_free_16x16_439: 1060970189
+      Interiors_free_16x16_550: 1629791296
+      Interiors_free_16x16_510: 1783100062
+      Interiors_free_16x16_59: -1441777708
+      Interiors_free_16x16_242: 829482276
+      Interiors_free_16x16_618: -1213941430
+      Interiors_free_16x16_745: 1246886525
+      Interiors_free_16x16_453: 1523832761
+      Interiors_free_16x16_388: 52207084
+      Interiors_free_16x16_542: 1141762991
+      Interiors_free_16x16_108: -793408619
+      Interiors_free_16x16_130: 2033369052
+      Interiors_free_16x16_208: 379588619
+      Interiors_free_16x16_275: -390436379
+      Interiors_free_16x16_446: -312115298
+      Interiors_free_16x16_33: -1629351913
+      Interiors_free_16x16_477: 1710538571
+      Interiors_free_16x16_43: -100237112
+      Interiors_free_16x16_54: 1649322409
+      Interiors_free_16x16_860: -781346779
+      Interiors_free_16x16_869: 864495528
+      Interiors_free_16x16_41: 925689512
+      Interiors_free_16x16_524: -1759209113
+      Interiors_free_16x16_1039: 851616510
+      Interiors_free_16x16_34: -824677917
+      Interiors_free_16x16_705: 1546030197
+      Interiors_free_16x16_13: -1117241083
+      Interiors_free_16x16_1067: 1310497382
+      Interiors_free_16x16_1083: -1910833494
+      Interiors_free_16x16_1011: 1847840706
+      Interiors_free_16x16_18: 2134338367
+      Interiors_free_16x16_991: -126141892
+      Interiors_free_16x16_343: 1461248234
+      Interiors_free_16x16_725: 472054856
+      Interiors_free_16x16_244: 431292209
+      Interiors_free_16x16_921: 1461954186
+      Interiors_free_16x16_661: 1851185424
+      Interiors_free_16x16_955: -1417163013
+      Interiors_free_16x16_357: -1159314093
+      Interiors_free_16x16_648: 1745105182
+      Interiors_free_16x16_507: -1991763699
+      Interiors_free_16x16_1098: 1446459562
+      Interiors_free_16x16_51: 1039809223
+      Interiors_free_16x16_576: 1223247023
+      Interiors_free_16x16_596: -1064302705
+      Interiors_free_16x16_150: 1220167065
+      Interiors_free_16x16_518: -851062492
+      Interiors_free_16x16_554: -343042492
+      Interiors_free_16x16_981: -797253289
+      Interiors_free_16x16_814: 462719734
+      Interiors_free_16x16_936: 553796249
+      Interiors_free_16x16_909: 1589721868
+      Interiors_free_16x16_306: 1421253759
+      Interiors_free_16x16_559: -940023079
+      Interiors_free_16x16_397: 1617606559
+      Interiors_free_16x16_545: 1192856394
+      Interiors_free_16x16_290: 847991043
+      Interiors_free_16x16_74: 1279600638
+      Interiors_free_16x16_1020: 1738450464
+      Interiors_free_16x16_1079: 19231181
+      Interiors_free_16x16_763: -447639953
+      Interiors_free_16x16_930: -2116263420
+      Interiors_free_16x16_939: -1470100016
+      Interiors_free_16x16_95: 700367522
+      Interiors_free_16x16_584: 1986930513
+      Interiors_free_16x16_679: -146911582
+      Interiors_free_16x16_307: 534840040
+      Interiors_free_16x16_138: -2098860782
+      Interiors_free_16x16_786: 83242240
+      Interiors_free_16x16_448: 776937119
+      Interiors_free_16x16_259: 1203689382
+      Interiors_free_16x16_887: 718102503
+      Interiors_free_16x16_758: -1686505570
+      Interiors_free_16x16_1072: 193147881
+      Interiors_free_16x16_411: 1271842313
+      Interiors_free_16x16_1023: -299357498
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
